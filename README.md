@@ -283,7 +283,6 @@ notebook/fraud_by_ANN.ipynb
 <h2><a class="anchor" id="future-improvements"></a>Future Improvements</h2>
 
 - Apply advanced deep learning models
-- Use SMOTE for oversampling fraud cases
 - Add precision, recall, and F1-score evaluation
 - Deploy the model using a web application
 - Implement real-time fraud detection systems
